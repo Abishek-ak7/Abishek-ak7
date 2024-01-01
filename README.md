@@ -5,7 +5,6 @@ I'm passionate about coding, problem-solving, and continuous learning. Currently
 
 ## Daily Streaks
 - **LeetCode**: [![LeetCode Streak](https://leetcode-badge.chotot.org/leetcode/abishekcsecs)](https://leetcode.com/abishekcsecs)
-  <img src="https://img.shields.io/badge/LeetCode-abishekcsecs-brightgreen" alt="LeetCode Badge">
 - **GitHub**: ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abishek-ak7)
   <img src="https://img.shields.io/github/followers/Abishek-ak7?style=social" alt="GitHub followers">
 - **HackerRank**: Visit [HackerRank Profile](https://www.hackerrank.com/Abishek777) to see my progress.
