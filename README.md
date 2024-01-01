@@ -4,8 +4,8 @@
 I'm passionate about coding, problem-solving, and continuous learning. Currently, I'm actively honing my skills on LeetCode and GitHub.
 
 ## Daily Streaks
-- **LeetCode**: ![LeetCode Streak](https://leetcode-badge.chotot.org/leetcode/YOUR_LEETCODE_USERNAME)
-- **GitHub**: ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME)
+- **LeetCode**: ![LeetCode Streak](https://leetcode-badge.chotot.org/leetcode/abishekcsecs)
+- **GitHub**: ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abishek-ak7)
 
 ## My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
