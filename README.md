@@ -10,7 +10,7 @@ I'm passionate about coding, problem-solving, and continuous learning. Currently
   <img src="https://img.shields.io/github/followers/Abishek-ak7?style=social" alt="GitHub followers">
 - **HackerRank**: Visit [HackerRank Profile](https://www.hackerrank.com/Abishek777) to see my progress.
   <img src="https://img.shields.io/badge/HackerRank-Abishek777-brightgreen" alt="HackerRank Badge">
-- **Coding Ninjas**: Connect with me on [Coding Ninjas]([https://www.codingninjas.com/studio/profile/Abishek77]) to explore more.
+- **Coding Ninjas**: Connect with me on [Coding Ninjas](https://www.codingninjas.com/studio/profile/Abishek77) to explore more.
   <img src="https://img.shields.io/badge/Coding%20Ninjas-abishek77-blue" alt="Coding Ninjas Badge">
 
 ## My Tech Stack
@@ -23,7 +23,7 @@ I'm passionate about coding, problem-solving, and continuous learning. Currently
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abishek-ak7&show_icons=true&theme=dark)
 
 ## Let's Connect
-- [LinkedIn](your-linkedin-profile)
+- [LinkedIn](https://www.linkedin.com/in/abishek-n7/)
 - [Twitter](your-twitter-profile)
 - [Personal Website/Blog](your-website)
 
