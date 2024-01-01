@@ -4,7 +4,7 @@
 I'm passionate about coding, problem-solving, and continuous learning. Currently, I'm actively honing my skills on platforms like LeetCode, HackerRank, and Coding Ninjas.
 
 ## Daily Streaks
-- **LeetCode**: [![LeetCode Streak]([(https://www.google.com/url?sa=i&url=https%3A%2F%2Fleetcode.com%2F&psig=AOvVaw2O7dReQD3eSg_9xNGrVGb9&ust=1704212904865000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCMjMxevNvIMDFQAAAAAdAAAAABAE))](https://leetcode.com/abishekcsecs)
+- **LeetCode**: [![LeetCode Streak](https://www.example.com/your-image.jpg)](https://leetcode.com/abishekcsecs)
   <img src="https://img.shields.io/badge/LeetCode-abishekcsecs-brightgreen" alt="LeetCode Badge">
 - **GitHub**: ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abishek-ak7)
   <img src="https://img.shields.io/github/followers/Abishek-ak7?style=social" alt="GitHub followers">
