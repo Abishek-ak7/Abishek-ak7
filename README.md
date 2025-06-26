@@ -88,7 +88,7 @@
 
 ### 📝 Resume
 <p align="center">
-  <a href="[https://drive.google.com/file/d/1U9_0G7FcroucHg0esL6WAKzrYOY9p5m1/view?usp=sharing](https://drive.google.com/file/d/1U9_0G7FcroucHg0esL6WAKzrYOY9p5m1/view?usp=sharing)" target="_blank">
+  <a href="https://drive.google.com/file/d/1U9_0G7FcroucHg0esL6WAKzrYOY9p5m1/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View_My_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
